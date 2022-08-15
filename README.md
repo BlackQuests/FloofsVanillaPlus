@@ -22,4 +22,7 @@ Below are instructions on how to add the modpack to an **existing** [MultiMC](ht
 2. Download [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and place it in the instance Minecraft folder (.minecraft folder where saves, resourcepacks, etc. are stored).
 3. Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
 `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://blackquests.github.io/FloofsVanillaPlus/pack.toml`
-4. Launch the instance and it should start downloading/updating the mods! If you get any error about missmatching versions that need to be updated, please re-check step 1.
+4. Launch the instance and it should start downloading/updating the mods! 
+    a. If you get any error about duplicate mods please make sure to delete any older versions of mods you already had installed.
+    b. If you get any error about missmatching versions that need to be updated, please re-check step 1.
+   
