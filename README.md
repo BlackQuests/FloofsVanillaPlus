@@ -19,10 +19,11 @@ Below are instructions on how to add the modpack as a **new** instance to [Multi
 Below are instructions on how to add the modpack to an **existing** [MultiMC](https://multimc.org/) instance. This _should_ allow mods within this modpack to auto-update while you maintain your settings and other mods.
 
 1. Make sure that the instance is running the same _Minecraft_ and _Quilt Loader_ version as detailed above (also make sure that _Intermediary Mappings_ is the same version as _Minecraft_).
+    1. If you made any changes to your versions make sure to close the instance editing screen for changes to apply.
 2. Download [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and place it in the instance Minecraft folder (.minecraft folder where saves, resourcepacks, etc. are stored).
 3. Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
 `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://blackquests.github.io/FloofsVanillaPlus/pack.toml`
 4. Launch the instance and it should start downloading/updating the mods! 
-    a. If you get any error about duplicate mods please make sure to delete any older versions of mods you already had installed.
-    b. If you get any error about missmatching versions that need to be updated, please re-check step 1.
+    1. If you get any error about duplicate mods please make sure to delete any older versions of mods you already had installed.
+    2. If you get any error about missmatching versions that need to be updated, please re-check step 1.
    
