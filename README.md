@@ -3,7 +3,7 @@ This repository contains a Quilt-based modpack managed via Packwiz.
 
 **Minecraft version**: 1.19.2
 
-**Quilt loader version**: 0.17.3
+**Quilt loader version**: 0.17.3 - 0.17.6
 
 ## Installation
 
