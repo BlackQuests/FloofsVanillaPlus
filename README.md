@@ -26,4 +26,5 @@ Below are instructions on how to add the modpack to an **existing** [MultiMC](ht
 4. Launch the instance and it should start downloading/updating the mods! 
     1. If you get any error about duplicate mods please make sure to delete any older versions of mods you already had installed.
     2. If you get any error about missmatching versions that need to be updated, please re-check step 1.
+
    
