@@ -1,0 +1,13 @@
+name = "WTHIT Harvestability"
+filename = "wthitharvestability-mc1.19.2-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jBRYuw8o/versions/pUIgrM30/wthitharvestability-mc1.19.2-2.1.0.jar"
+hash-format = "sha1"
+hash = "86629477109392b14800f3d5a917e7721022fa15"
+
+[update]
+[update.modrinth]
+mod-id = "jBRYuw8o"
+version = "pUIgrM30"

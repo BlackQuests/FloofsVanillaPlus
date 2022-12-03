@@ -121,6 +121,11 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/wthit-harvestability.pw.toml"
+hash = "e8f8ae22cf5374e20549426cd711f7ef8a5135041b82fdb5b48477652cabef38"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
 metafile = true
