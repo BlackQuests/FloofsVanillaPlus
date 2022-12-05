@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "422a233901027d9b34b1f14c411ecb6ee88ec636a53fb5cc0dd88a5e8925a185"
+
+[[files]]
+file = "_config.yml"
+hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
+
+[[files]]
+file = "config/fpsreducer.json"
+hash = "28da69dcdf1a673f06d8705b246ce10ba7c6ad6dcb590860cf730c44676a11ab"
+
+[[files]]
+file = "config/lightoverlay.properties"
+hash = "d1029063c64194eabcbefc57ddc1b82f3809e4cb2bb67379d0cafd11e34b0c29"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "72ed1477a629039e360b9c3fb23fe28e482304ca393b21f2f668a4a57a8965c2"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "eead3395cc16b16c8d1cfef880b7058a0c8e225ff4d223b5fe316132d0eeace1"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -122,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-plugins.pw.toml"
-hash = "63e7c439fccdafeb42e3c2a6204b2293b177da0903c4ea6af877ca629085c5c2"
+hash = "8da1f3edb99cc547f6a9a685b59b1878650977dfc92e519e9b1e33c29ecc0d72"
 metafile = true
 
 [[files]]
@@ -132,10 +156,30 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
+hash = "6268b992cac024719bb0af75ef8402bc9a14a2d528cbc385c357369adb139a56"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
+hash = "26203ab881c5ad527fd111564c43488b328679774c4efb27a7654f1d66467986"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "95dcbf06188d4851f55aca7da52d1e08224f1140446ed45c99a0ee3647888461"
+
+[[files]]
+file = "resourcepacks/(Visual Silk Touch Tools)-3.1.1v_BETA_VisualEnchantments.zip"
+hash = "bbf8b345d468c29f3cd8a6f0f9ca18ecd0c43edfb5f4bc3f0b518d9389441414"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r692529.zip"
+hash = "b4d025d67e1673679acbeeb73c15eef965a85338d3b2bd6c8836b300bf476551"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
+hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip.txt"
+hash = "952601f813b00bd9a2b2d744acd9a21e3f9b760a4c96f29c210a785219c0b519"
