@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "422a233901027d9b34b1f14c411ecb6ee88ec636a53fb5cc0dd88a5e8925a185"
-
-[[files]]
-file = "_config.yml"
-hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
-
-[[files]]
 file = "config/fpsreducer.json"
 hash = "28da69dcdf1a673f06d8705b246ce10ba7c6ad6dcb590860cf730c44676a11ab"
 
