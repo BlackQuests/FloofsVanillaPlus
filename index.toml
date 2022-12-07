@@ -13,6 +13,10 @@ file = "config/fpsreducer.json"
 hash = "28da69dcdf1a673f06d8705b246ce10ba7c6ad6dcb590860cf730c44676a11ab"
 
 [[files]]
+file = "config/iris.properties"
+hash = "679ac7635ed73d22f9e7813bda26be9ed16d2111b3adc4377f057f964f301f39"
+
+[[files]]
 file = "config/lightoverlay.properties"
 hash = "d1029063c64194eabcbefc57ddc1b82f3809e4cb2bb67379d0cafd11e34b0c29"
 
