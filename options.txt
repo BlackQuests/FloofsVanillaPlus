@@ -1,5 +1,4 @@
 version:3120
-quilt_available_resource_packs:["programer_art","vanilla","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks_r692529.zip","file/F8thful+-+v4.0.zip","file/3.1.1v_BETA_VisualEnchantments.zip","file/(Silk Touch)3.1.1v_BETA_VisualEnchantments.zip","file/(Silk Touch)Meh.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
