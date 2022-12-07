@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-plugins.pw.toml"
-hash = "8da1f3edb99cc547f6a9a685b59b1878650977dfc92e519e9b1e33c29ecc0d72"
+hash = "63e7c439fccdafeb42e3c2a6204b2293b177da0903c4ea6af877ca629085c5c2"
 metafile = true
 
 [[files]]
@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6268b992cac024719bb0af75ef8402bc9a14a2d528cbc385c357369adb139a56"
+hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "26203ab881c5ad527fd111564c43488b328679774c4efb27a7654f1d66467986"
+hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
 metafile = true
 
 [[files]]
