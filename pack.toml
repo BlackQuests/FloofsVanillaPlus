@@ -1,13 +1,13 @@
 name = "Floof's Vanilla+ (Quilt)"
 author = "Floof"
-version = "2.3.0"
+version = "2.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c622863f71c3d5d2e7c4926b0c2be51ecc8c0091af263a1f5bce577ae896e9fe"
+hash = "67aacc49873446ae0c49aeb4f32950f9420e75ae8a0cd07f8938b77d98836575"
 
 [versions]
 minecraft = "1.19.3"
-quilt = "0.17.7"
+quilt = "0.17.8"

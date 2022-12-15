@@ -18,7 +18,7 @@ hash = "72ed1477a629039e360b9c3fb23fe28e482304ca393b21f2f668a4a57a8965c2"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "eead3395cc16b16c8d1cfef880b7058a0c8e225ff4d223b5fe316132d0eeace1"
+hash = "1290b5c6c14d4eb3c58a911ad9f31b75938bd347f76ea909c1a51635673dfb94"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -36,8 +36,18 @@ hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "0167fe07b724c6017ee1efcc1fbce8931b8bed06e90bace22c399b8a13a49998"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "2d200815ff6536ca9b5e659270b52d7d722ec122dfe503425ff89e5befa024e7"
 metafile = true
 
 [[files]]
@@ -131,6 +146,16 @@ hash = "5cd8d209bd8e41db87a72bf1e5890ba34e3d2017bb6ddbdff5182588a3fc4e93"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "acf2076ba440f421f3447041d97169c09fd9abd99ec59250a5bfe75ea72d02f0"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "065c26f77b27ed61450ca48cf9c2d5973caa711ffa89c0dd65184a545942bf43"
 
@@ -148,4 +173,4 @@ hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip.txt"
-hash = "3c3a591d4af369e7dfb668729367db8e57d9d04db6b465efb213c8ecc147db49"
+hash = "cb2449dbe4b09da87a2d4f1c4f6613d1247134383cba74fd475e8b4e41514d52"
