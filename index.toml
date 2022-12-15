@@ -46,6 +46,11 @@ hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
@@ -138,6 +143,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5cd8d209bd8e41db87a72bf1e5890ba34e3d2017bb6ddbdff5182588a3fc4e93"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "acf2076ba440f421f3447041d97169c09fd9abd99ec59250a5bfe75ea72d02f0"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
