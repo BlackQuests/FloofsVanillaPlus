@@ -18,7 +18,7 @@ hash = "72ed1477a629039e360b9c3fb23fe28e482304ca393b21f2f668a4a57a8965c2"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "eead3395cc16b16c8d1cfef880b7058a0c8e225ff4d223b5fe316132d0eeace1"
+hash = "1290b5c6c14d4eb3c58a911ad9f31b75938bd347f76ea909c1a51635673dfb94"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
