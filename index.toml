@@ -36,6 +36,11 @@ hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "0167fe07b724c6017ee1efcc1fbce8931b8bed06e90bace22c399b8a13a49998"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
