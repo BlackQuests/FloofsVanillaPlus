@@ -1,9 +1,9 @@
 # Floof's Vanilla+
 This repository contains a Quilt-based modpack managed via Packwiz.
 
-**Minecraft version**: 1.19.2
+**Minecraft version**: 1.19.3
 
-**Quilt loader version**: 0.17.3 - 0.17.6
+**Quilt loader version**: 0.17.8
 
 ## Installation
 
