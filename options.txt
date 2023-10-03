@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks_r692529.zip","file/(Visual Silk Touch Tools)-3.1.1v_BETA_VisualEnchantments.zip"]
+resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks_r749592.zip","file/(Visual Silk Touch Tools)-3.1.1v_BETA_VisualEnchantments.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_gb
