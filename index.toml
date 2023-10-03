@@ -46,6 +46,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d2b04b985ed22bb26338837b0547f08a41b82b23c3136f1fff9582b1748b7954"
 metafile = true
@@ -148,10 +153,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "eb814be46cbda3f982aceb54853e5bb88247aaa568562a20b75f907cbfaa6d41"
-
-[[files]]
-file = "optionsold.txt"
-hash = "949c03d7ed6e8d5b63e9e27dcb4e1323ee65a68a2573cc96b61af877bd1fe078"
 
 [[files]]
 file = "resourcepacks/(Visual Silk Touch Tools)-3.1.1v_BETA_VisualEnchantments.zip"
