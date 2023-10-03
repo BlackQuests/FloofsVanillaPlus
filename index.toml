@@ -147,20 +147,24 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "065c26f77b27ed61450ca48cf9c2d5973caa711ffa89c0dd65184a545942bf43"
+hash = "eb814be46cbda3f982aceb54853e5bb88247aaa568562a20b75f907cbfaa6d41"
+
+[[files]]
+file = "optionsold.txt"
+hash = "949c03d7ed6e8d5b63e9e27dcb4e1323ee65a68a2573cc96b61af877bd1fe078"
 
 [[files]]
 file = "resourcepacks/(Visual Silk Touch Tools)-3.1.1v_BETA_VisualEnchantments.zip"
 hash = "bbf8b345d468c29f3cd8a6f0f9ca18ecd0c43edfb5f4bc3f0b518d9389441414"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r692529.zip"
-hash = "b4d025d67e1673679acbeeb73c15eef965a85338d3b2bd6c8836b300bf476551"
+file = "resourcepacks/VanillaTweaks_r749592.zip"
+hash = "8f990f0acdf1d57ab617c6bd608f1bbfdda45e93449f75b1aa53ca41c5d01003"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
-hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
+file = "shaderpacks/ComplementaryReimagined_r5.0.1.zip"
+hash = "d8ad0b1ca8bd9df23b84a29be08c4a00730083ee7d142b0b2c23d0d4bd44ccaf"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip.txt"
-hash = "cb2449dbe4b09da87a2d4f1c4f6613d1247134383cba74fd475e8b4e41514d52"
+file = "shaderpacks/ComplementaryReimagined_r5.0.1.zip.txt"
+hash = "bbdfb6d629f185f7d76c70a898ca8b872188d5a335cdb4dd1ad61754228f9cba"
