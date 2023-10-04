@@ -71,6 +71,11 @@ hash = "9b69972723915ae7819604d2bd961372438046e79e5281b121442ba406027d8c"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "c24e05bc69b5e571da13b6f854c89ea093deab2b74b1bd3e8f17113a2f01c07e"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
