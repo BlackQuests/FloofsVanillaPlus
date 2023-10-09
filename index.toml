@@ -14,7 +14,7 @@ hash = "d1029063c64194eabcbefc57ddc1b82f3809e4cb2bb67379d0cafd11e34b0c29"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "72ed1477a629039e360b9c3fb23fe28e482304ca393b21f2f668a4a57a8965c2"
+hash = "f5d3f4e4e314fd3402116f736f79d8f0b2c268da8f56b7a6563ffc6c5c4151c3"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d2b04b985ed22bb26338837b0547f08a41b82b23c3136f1fff9582b1748b7954"
+hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "2d219768c56e4825e5a16ed290bc9dab664cf45e4fd062365d90f70cf8827996"
+hash = "a57091f8b6ecf13d9cd342afed94a7fad266f72aceafe17e6e63b4dbcbaf1934"
 metafile = true
 
 [[files]]
