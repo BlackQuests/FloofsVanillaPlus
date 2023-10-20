@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "0674ee35d0951c265649a17757fe69b099d90b2bf8bb448f6a5beb78fe985294"
+hash = "b2e0d51beac88a90d9b9051c075890c862bd6e33483b45f69584af23e61dd7e5"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e60dfe0d44555b200e0ab643f7beaa90dde3d37c5e89fea7dcf11f94f581f5ae"
+hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "0a78a506125c0edc97d2292d26c6eab310106c60a5a4e64d73ff67bb619f5a4c"
+hash = "2b9e4dbe7305540ed0bac103f8ba47a36307a3a194dda91b5886a2caf4712d0a"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5058bdd94e24d21a138fde424ad1cea0b5f05dbff8abdafab0a5036cec25be17"
+hash = "8bd1020733b8799bdbfedb45712f98d090111c85d467b3f911b65519b8761fa2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "94935b6b38b8732ca1971ce8b5217528c716dbae52d7b19a1984cd127ad57214"
+hash = "3bcf81225c8b35fe4777da1807681763a9dfe9f3cd067baf0198c3970142d6d4"
 metafile = true
 
 [[files]]
