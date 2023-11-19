@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a3caf4dd0a0d0a739c8f00a7d81b74c9ae7fdb58b250ddc9b466213dbd385a80"
+hash = "434ffb39ddc31c1a7b1e79d897123fb1cbc4bee1d70b45f48559a6724a235605"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "b2e0d51beac88a90d9b9051c075890c862bd6e33483b45f69584af23e61dd7e5"
+hash = "9d40ed4800caf4c3fa848d986f8a6c947c00ae215c5179711b212204cb6cea6a"
 metafile = true
 
 [[files]]
@@ -46,23 +46,28 @@ hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -112,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "19a098ab3131eb6daf0033199744d33dbb31a4ce9b20b9fc6eb709ab1272aa7e"
+hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "430ddd34671877ce48c749a181f7661eb10ed83fe40caaaebda61e4f13f32884"
+hash = "bc50ea27a0263505a5a0e51d0351aec9d9c05680919162bf46289a8274af5fd8"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "7e39ba5b471407bf43c212fae99856276bf4411046aa3a5df5a7d27e76c7a2b3"
+hash = "ebe386eef0fb117e3bc3252786fbca4b3f05e45eb2cc8e2f56549aad396d244f"
 metafile = true
 
 [[files]]
@@ -137,22 +142,22 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d84cd8cdfc4159872ffb18d41da94c1c525a725a8b4ec2b0818358d14fd4ca83"
+hash = "3666f5429ceca9261ca29ff0e238bee681f48a6a9c55dd87a73aeebe4999e048"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8bd1020733b8799bdbfedb45712f98d090111c85d467b3f911b65519b8761fa2"
+hash = "2b731c4ef0ce571fb108df15d852f4dae08f73811b01ba9b1c6e28babb9f538a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3bcf81225c8b35fe4777da1807681763a9dfe9f3cd067baf0198c3970142d6d4"
+hash = "becdebd62cad60c0eb649a4bd56787beb4797a883a428c993461da891a1c5121"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "56790bf358ad08622fa9f6af22fa9114694d269b12c51050975c3841580f32ae"
+hash = "5b008785d77be9d5a534b3382898668d8eecc4541cfb900fbb4eb79d24565d11"
 metafile = true
 
 [[files]]
