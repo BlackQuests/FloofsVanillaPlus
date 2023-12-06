@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "434ffb39ddc31c1a7b1e79d897123fb1cbc4bee1d70b45f48559a6724a235605"
+hash = "eef03feff50e59b521c09d9c456d5cd5d799b8e7e3f8cc62a17f5e64cb230f44"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "d171eabd7e1e44aaf3437dff4887bd02d2bb90f54c219417f538278b0f6cda12"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
+hash = "8b98a77bd50c8c287121ded96feff795d9ca11d8038cd2e500a248651354b2a6"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+hash = "f1d83469db110ef5cad996049037740d122688703cd90e75ecdc52e4d834a360"
 metafile = true
 
 [[files]]
@@ -142,17 +142,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "3666f5429ceca9261ca29ff0e238bee681f48a6a9c55dd87a73aeebe4999e048"
+hash = "6fb15ff627c47d7546c5a509e33ade5371592c5dd7337bf8f8beb3821732da87"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2b731c4ef0ce571fb108df15d852f4dae08f73811b01ba9b1c6e28babb9f538a"
+hash = "1fd09321d18bc67733aef0d3c22252792afaeb03c39bb87719a5d03102fd0da6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "becdebd62cad60c0eb649a4bd56787beb4797a883a428c993461da891a1c5121"
+hash = "7b93bf88af97b5f344bb7a08af826e0bf8cf76af3c6b57f5c138d46bace46f23"
 metafile = true
 
 [[files]]
