@@ -56,6 +56,16 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "494e520aaf108172df1eed9915c5fba5fa8a47eab32412ff8e1c888d13d99492"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "353705717b82a658e27d091b768398c27db7f7cafd4ab61f3df4fc59406628af"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
 metafile = true
