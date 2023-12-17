@@ -86,6 +86,11 @@ hash = "9b69972723915ae7819604d2bd961372438046e79e5281b121442ba406027d8c"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "5821b6cd9a88dac8e7c09268dd7ca025456190038fdd20f8b38ad5509092bd08"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "c24e05bc69b5e571da13b6f854c89ea093deab2b74b1bd3e8f17113a2f01c07e"
 metafile = true
