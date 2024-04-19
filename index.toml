@@ -194,12 +194,8 @@ file = "resourcepacks/(Visual Silk Touch Tools)-3.1.1v_BETA_VisualEnchantments.z
 hash = "bbf8b345d468c29f3cd8a6f0f9ca18ecd0c43edfb5f4bc3f0b518d9389441414"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r749592.zip"
-hash = "8f990f0acdf1d57ab617c6bd608f1bbfdda45e93449f75b1aa53ca41c5d01003"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.0.1.zip"
-hash = "d8ad0b1ca8bd9df23b84a29be08c4a00730083ee7d142b0b2c23d0d4bd44ccaf"
+file = "resourcepacks/VanillaTweaks_r797064.zip"
+hash = "9280ffe008120b23eff2d230ec60f11559833ca6a0eb011cb18ae4cddc0cd5e7"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
