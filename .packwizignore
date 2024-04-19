@@ -4,3 +4,4 @@
 # Exclude README
 *.md
 /_config.yml
+.obsidian
