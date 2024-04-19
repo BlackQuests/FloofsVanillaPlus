@@ -1,13 +1,13 @@
 name = "Lighty"
-filename = "lighty-fabric-2.1.2+1.20.2.jar"
+filename = "lighty-fabric-2.2.0+1.20.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjvKidNM/versions/kABf9vLK/lighty-fabric-2.1.2%2B1.20.2.jar"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/X4PKtqOJ/lighty-fabric-2.2.0%2B1.20.3.jar"
 hash-format = "sha1"
-hash = "ad23556cdb3c0d3c5576a9b4cad9056855742055"
+hash = "ea506bc1d2036f2324d59221526096e91851af06"
 
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"
-version = "kABf9vLK"
+version = "X4PKtqOJ"
