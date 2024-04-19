@@ -1,9 +1,9 @@
 # Floof's Vanilla+
 This repository contains a Fabric-based modpack managed via Packwiz.
 
-**Latest supported Minecraft version**: 1.20.2
+**Latest supported Minecraft version**: 1.20.4
 
-**Fabric loader version**: 0.14.22
+**Fabric loader version**: 0.15.10
 
 ~~**Quilt loader version**: 0.17.8~~ (previous versions)
 
