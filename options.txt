@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/VanillaTweaks_r749592.zip","fabric","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","file/VanillaTweaks_r603804_MC1.21.x.zip","fabric","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:mc.mphlips.nl
 lang:en_gb
