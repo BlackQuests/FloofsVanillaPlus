@@ -29,4 +29,14 @@ Below are instructions on how to add the modpack to an **existing** [MultiMC](ht
     1. If you get any error about duplicate mods please make sure to delete any older versions of mods you already had installed.
     2. If you get any error about missmatching versions that need to be updated, please re-check step 1.
 
-   
+## Selecting a different version
+
+You can check what versions are available under this repositories' [Branches](https://github.com/BlackQuests/FloofsVanillaPlus/branches/all)
+
+If you wish to use any other version that the latest you can do the following:
+
+1. In MultiMC, click "Edit Instance" on your instance of Floof's Vanilla+
+2. In the window that pops up, go to the "Settings" page
+3. In the Settings page, go to the "Custom commands" tab
+4. Replace the URL in the pre-launch command input (by default this is "https://blackquests.github.io/FloofsVanillaPlus/pack.toml") with the following: 
+`https://raw.githubusercontent.com/BlackQuests/FloofsVanillaPlus/<your-desired-version>/pack.toml` where `<your-desired-version>` is the branch name you selected. As an example, this would be the URL for 1.20.2: `https://raw.githubusercontent.com/BlackQuests/FloofsVanillaPlus/1.20.2/pack.toml`
