@@ -1,13 +1,13 @@
 name = "ShulkerBoxTooltip [Fabric/Forge]"
-filename = "shulkerboxtooltip-fabric-4.0.8+1.20.4.jar"
+filename = "shulkerboxtooltip-fabric-5.2.4+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2M01OLQq/versions/R23hymvz/shulkerboxtooltip-fabric-4.0.8%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/2M01OLQq/versions/idZLXMFh/shulkerboxtooltip-fabric-5.2.4%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "170972b46c2758567f2d3beb93a72b095bf5cafb"
+hash = "a69e6b5da9157389a94c1275a5ef9f01bbd80f70"
 
 [update]
 [update.modrinth]
 mod-id = "2M01OLQq"
-version = "R23hymvz"
+version = "idZLXMFh"

@@ -1,0 +1,13 @@
+name = "More Mouse Tweaks"
+filename = "moremousetweaks-fabric-1.0.0-beta.4+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8drsznD/versions/lz062Oem/moremousetweaks-fabric-1.0.0-beta.4%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "175eccb3ebbfe949800e5ecbacce5d5b4dabec57"
+
+[update]
+[update.modrinth]
+mod-id = "S8drsznD"
+version = "lz062Oem"
