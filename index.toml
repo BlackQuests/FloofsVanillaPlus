@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3a6d8f229fc7f1743ce583db236fdcfb3cb1a73b2b44a7a8f82360b98ac73723"
+hash = "ccb0ba609f9e0e951ae2570139f5ffd67bfd26cbf2e9443c7d17fd7900171672"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "57d890a26f6441ecdb4c1285f4979f208da16d9d917565844a50a20bd803d49b"
+hash = "00b11eaac859970a90e5c9a3e57d2d0f07ed185a59a86edef61783549cd4b016"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9e5d684ee547dd24c8e4b1ab0105fc632a98b0697ab5aabd8fe8fd581ff47535"
+hash = "a575bbba4bea7145c15d5d850bac8b2fd671ab8d92b1695961393ee97717d273"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "2d96ccfede6b8617151d775d5453247ec4ca324be9ab853805efb25ee9c74326"
+hash = "7af3fc4fbcc537dea48b4ab3dbc0b6f6e0236735406644a5d5cfbc9d7e82c668"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "35cf5659b49f02659b7a19920ad6d70826bfc790176d6ddaa11fc3378881531e"
+hash = "2ff2a66b46ede0d12fd6f5e513330bd4772c3b72b3f3bf3e069a261fd1783202"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "54ce2212a0fb1b1bffe874b29c23660fc9056e345ba0b8960ecbfa4392cc1401"
+hash = "5fabd55b696c3f158743d0ecf3bec0efaf7d13d2966d215920c4ced010d42a1b"
 metafile = true
 
 [[files]]
