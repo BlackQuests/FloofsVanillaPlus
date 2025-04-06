@@ -21,11 +21,6 @@ file = "config/xaerominimap_entities.json"
 hash = "1290b5c6c14d4eb3c58a911ad9f31b75938bd347f76ea909c1a51635673dfb94"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "d72b2c70e69346f577bee58b1bd07feda0eb7430b5b7dba63b480d2db97f3b13"
 metafile = true
