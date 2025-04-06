@@ -41,6 +41,11 @@ hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "d72b2c70e69346f577bee58b1bd07feda0eb7430b5b7dba63b480d2db97f3b13"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "eea0fc990f1d7ff308de431074b26177588796fbd1ab2199ef0bdc5be3101329"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "71967a5cb410525b8e7ee0b59f5d6919733a802fcde52fd9d3dd0d75d53ea0a6"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c8470b279372c8b2b220fea0292b2dd7efe17a0fa62a10b3c03aae0fbf29169a"
 metafile = true
 
 [[files]]
