@@ -1,13 +1,13 @@
 name = "Held Item Info"
-filename = "held-item-info-1.7.1.jar"
+filename = "held-item-info-1.9.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tEcWzCZz/versions/vuqr97iM/held-item-info-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/tEcWzCZz/versions/bNAT9H23/held-item-info-1.9.2.jar"
 hash-format = "sha1"
-hash = "1d16845142a9110daaf1598d03e0bf390b30865c"
+hash = "bca147858d45f1bc91c09a3c30151fd53d5089cc"
 
 [update]
 [update.modrinth]
 mod-id = "tEcWzCZz"
-version = "vuqr97iM"
+version = "bNAT9H23"
